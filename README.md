@@ -1,4 +1,4 @@
-# zap-scan-api-action
+# oneconnect-docker-build-push-action
 This is a GitHub Action meant to be used as a [composite action](https://docs.github.com/en/actions/creating-actions/creating-a-composite-action) within an existing workflow. This action encapsulates setting up a checkout and zap scan in one step. 
 
 The action encapsulates the following other actions:
