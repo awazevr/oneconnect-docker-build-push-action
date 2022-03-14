@@ -4,10 +4,10 @@ This is a GitHub Action meant to be used as a composite action within an existin
 
 The action encapsulates the following other actions:
 
-- aws-actions/configure-aws-credentials
-- ws-actions/amazon-ecr-login
-- docker/metadata-action
-- docker/build-push-action
+- [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials)
+- [aws-actions/amazon-ecr-login](https://github.com/aws-actions/amazon-ecr-login)
+- [docker/metadata-action](https://github.com/docker/metadata-action)
+- [docker/build-push-action](https://github.com/docker/build-push-action)
 
 ## Inputs
 
